@@ -4,7 +4,7 @@ Thank you for considering making contributions to this code and/or project. All 
 - email: hollie_marshall@hotmail.co.uk
 - twitter: @mooholl 
 
-The goal of this project is to determine parent-of-origin expression from RNA-seq data of workers generated from reciprocol crosses of <i>Bombus terrestris<\i> sub-species.
+The goal of this project is to determine parent-of-origin expression from RNA-seq data of workers generated from reciprocol crosses of <i>Bombus terrestris</i> sub-species.
 
 
 ## Current Goals
