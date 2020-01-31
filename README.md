@@ -8,9 +8,6 @@ Genomic imprinting is when allele-specific expression occurs in a parent-of-orig
 
 This project is part of the work from the Socioecology and Social Evolution lab in KU Leuven, headed by Prof. Tom Wenseleers [see website](https://bio.kuleuven.be/ento/wenseleers/twenseleers.htm) and the Social Epigenetics group at the Unviersity of Leicester, headed by Dr. Eamonn Mallon, [see website](https://www2.le.ac.uk/projects/selab). The reciprocal crosses were carried out by Biobest (Westerlo, Belgium) under supervision of Prof. Felix Wäckers. Dr. Jelle van Zweden and Dr. Kristof Beneats carried out the behavioural observations and lab work. Dr. Hollie Marshall and Prof. Tom Wenseleers carried out the analyses with input from Dr. Anneleen Van Geystelen.
 
-## Project Structure
-to-do
-  
 ## Additional Info
 
 If you would like to use any of the code found here please cite the current pre-print found [here](https://www.biorxiv.org/content/10.1101/2020.01.17.909168v1.full).
